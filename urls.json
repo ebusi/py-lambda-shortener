@@ -1,0 +1,11 @@
+[{
+    "id": 1,
+    "name": "Google",
+    "key": "g",
+    "url": "google.com"
+}, {
+	"id": 2,
+	"name": "Amazon",
+	"key": "a",
+	"url": "amazon.com"
+}]
